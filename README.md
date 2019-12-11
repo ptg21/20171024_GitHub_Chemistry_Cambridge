@@ -75,6 +75,15 @@ Changes are identified by a *revision number*, e.g. 60363b1. Each revision is as
 
 There are other softwares for version control, e.g. subversion ([svn](https://en.wikipedia.org/wiki/Apache_Subversion)).
 
+### What is the difference between git (the program) Gitlab (the program), Gitlab (the website) and Github?
+
+
+### What is Git not good for
+- Large data files
+- Word documents
+- Images
+
+Git is designed for programmers, and programmers typically work with text files.  Changes to text files are easy to see, and visualise, but binary files (10001000101010) are harder.  Images, Word Documents, PDFs, etc  - These are all stored as Binary files (not as text) and so they and the changes are difficult to visualise using Github.
 
 ### Interfaces to Git and GitHub
 
